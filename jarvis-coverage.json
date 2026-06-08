@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-06-08T07:08:58.223Z",
+  "areas": {
+    "people": {
+      "icon": "👤",
+      "label": "사람",
+      "mode": "coverage",
+      "known": 13,
+      "total": 19,
+      "rate": 68,
+      "knownItems": [
+        "태희",
+        "지현",
+        "승욱",
+        "서윤",
+        "선우",
+        "재석",
+        "강사",
+        "박준호",
+        "윤이",
+        "차희",
+        "스모",
+        "정차희"
+      ],
+      "unknownItems": [
+        {
+          "name": "병화",
+          "freq": 2
+        },
+        {
+          "name": "용승",
+          "freq": 2
+        },
+        {
+          "name": "순일",
+          "freq": 2
+        },
+        {
+          "name": "우현",
+          "freq": 2
+        },
+        {
+          "name": "홍채은",
+          "freq": 2
+        },
+        {
+          "name": "채은",
+          "freq": 2
+        }
+      ]
+    },
+    "projectContext": {
+      "icon": "🗂",
+      "label": "프로젝트 맥락",
+      "mode": "coverage",
+      "known": 8,
+      "total": 9,
+      "rate": 89,
+      "knownItems": [
+        "아울렛(SECOND LIFE)",
+        "CRM",
+        "컬렉티브",
+        "데일리플래너",
+        "정산엔진",
+        "AI 마켓",
+        "키즈스터디 데이터전략",
+        "키즈스터디 서비스전략"
+      ],
+      "unknownItems": [
+        {
+          "name": "키즈스터디",
+          "reason": "다음 액션 불명확"
+        }
+      ]
+    },
+    "preferences": {
+      "icon": "🧭",
+      "label": "선호·습관",
+      "mode": "count",
+      "count": 24,
+      "weekDelta": 0,
+      "recentItems": [
+        {
+          "text": "이게 무슨말이야? 카카오싱크?",
+          "source": "decision",
+          "date": "2026-06-08"
+        },
+        {
+          "text": "아울렛 홀딩으로 다 멈춰",
+          "source": "decision",
+          "date": "2026-06-08"
+        },
+        {
+          "text": "아울렛 홀딩으로 다 멈춰",
+          "source": "decision",
+          "date": "2026-06-08"
+        }
+      ]
+    }
+  },
+  "overall": {
+    "knownTotal": 21,
+    "discoverableTotal": 28,
+    "rate": 75,
+    "weekDelta": 0
+  },
+  "history": [
+    {
+      "date": "2026-06-08",
+      "knownTotal": 21
+    }
+  ]
+}
