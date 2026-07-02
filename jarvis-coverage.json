@@ -1,34 +1,42 @@
 {
-  "generatedAt": "2026-06-08T07:08:58.223Z",
+  "generatedAt": "2026-07-02T07:43:33.955Z",
   "areas": {
     "people": {
       "icon": "👤",
       "label": "사람",
       "mode": "coverage",
-      "known": 13,
-      "total": 19,
-      "rate": 68,
+      "known": 25,
+      "total": 33,
+      "rate": 76,
       "knownItems": [
-        "태희",
-        "지현",
-        "승욱",
-        "서윤",
         "선우",
+        "지현",
+        "태희",
+        "서윤",
+        "승욱",
+        "소현",
+        "혜주",
+        "소연",
         "재석",
-        "강사",
+        "홍채은",
         "박준호",
-        "윤이",
-        "차희",
-        "스모",
-        "정차희"
+        "강사"
       ],
       "unknownItems": [
         {
-          "name": "병화",
+          "name": "나인",
+          "freq": 3
+        },
+        {
+          "name": "손태희",
           "freq": 2
         },
         {
-          "name": "용승",
+          "name": "병원",
+          "freq": 2
+        },
+        {
+          "name": "가나",
           "freq": 2
         },
         {
@@ -40,11 +48,11 @@
           "freq": 2
         },
         {
-          "name": "홍채은",
+          "name": "채은",
           "freq": 2
         },
         {
-          "name": "채은",
+          "name": "민혁",
           "freq": 2
         }
       ]
@@ -53,18 +61,21 @@
       "icon": "🗂",
       "label": "프로젝트 맥락",
       "mode": "coverage",
-      "known": 8,
-      "total": 9,
-      "rate": 89,
+      "known": 11,
+      "total": 12,
+      "rate": 92,
       "knownItems": [
         "아울렛(SECOND LIFE)",
+        "자산화/MD",
         "CRM",
         "컬렉티브",
         "데일리플래너",
         "정산엔진",
+        "ai-projects 20.8-ax-training",
         "AI 마켓",
         "키즈스터디 데이터전략",
-        "키즈스터디 서비스전략"
+        "키즈스터디 서비스전략",
+        "kidsstudy-planning p3-crm"
       ],
       "unknownItems": [
         {
@@ -76,38 +87,120 @@
     "preferences": {
       "icon": "🧭",
       "label": "선호·습관",
-      "mode": "count",
-      "count": 24,
-      "weekDelta": 0,
+      "mode": "coverage",
+      "known": 8,
+      "total": 12,
+      "rate": 67,
+      "knownItems": [
+        "보고/기획안 작성법",
+        "프로젝트 리더십",
+        "발표 자료 스타일",
+        "회의 스타일",
+        "콘텐츠/카피 작법",
+        "데이터 산출물 방식",
+        "프로덕트 개발 성향",
+        "재사용 자산 선호"
+      ],
+      "unknownItems": [
+        {
+          "name": "기술 선택 기준",
+          "reason": "user 메모리 없음 — 자가학습 질문 후보"
+        },
+        {
+          "name": "UX 판단 기준",
+          "reason": "user 메모리 없음 — 자가학습 질문 후보"
+        },
+        {
+          "name": "커뮤니케이션 톤",
+          "reason": "user 메모리 없음 — 자가학습 질문 후보"
+        },
+        {
+          "name": "의사결정 패턴",
+          "reason": "user 메모리 없음 — 자가학습 질문 후보"
+        }
+      ],
+      "signalCount": 79,
       "recentItems": [
         {
-          "text": "이게 무슨말이야? 카카오싱크?",
+          "text": "0616 일괄정리: 답 안하고 쌓인 미응답 팝업 — 폐기+영구차단",
           "source": "decision",
-          "date": "2026-06-08"
+          "date": "2026-06-16"
         },
         {
-          "text": "아울렛 홀딩으로 다 멈춰",
+          "text": "0616 일괄정리: 답 안하고 쌓인 미응답 팝업 — 폐기+영구차단",
           "source": "decision",
-          "date": "2026-06-08"
+          "date": "2026-06-16"
         },
         {
-          "text": "아울렛 홀딩으로 다 멈춰",
+          "text": "0616 일괄정리: 답 안하고 쌓인 미응답 팝업 — 폐기+영구차단",
           "source": "decision",
-          "date": "2026-06-08"
+          "date": "2026-06-16"
         }
       ]
     }
   },
   "overall": {
-    "knownTotal": 21,
-    "discoverableTotal": 28,
-    "rate": 75,
-    "weekDelta": 0
+    "knownTotal": 44,
+    "discoverableTotal": 57,
+    "rate": 77,
+    "weekDelta": 11
   },
   "history": [
     {
-      "date": "2026-06-08",
-      "knownTotal": 21
+      "date": "2026-06-15",
+      "knownTotal": 33
+    },
+    {
+      "date": "2026-06-16",
+      "knownTotal": 40
+    },
+    {
+      "date": "2026-06-17",
+      "knownTotal": 40
+    },
+    {
+      "date": "2026-06-18",
+      "knownTotal": 40
+    },
+    {
+      "date": "2026-06-19",
+      "knownTotal": 41
+    },
+    {
+      "date": "2026-06-22",
+      "knownTotal": 42
+    },
+    {
+      "date": "2026-06-24",
+      "knownTotal": 42
+    },
+    {
+      "date": "2026-06-25",
+      "knownTotal": 42
+    },
+    {
+      "date": "2026-06-26",
+      "knownTotal": 43
+    },
+    {
+      "date": "2026-06-28",
+      "knownTotal": 43
+    },
+    {
+      "date": "2026-06-29",
+      "knownTotal": 44
+    },
+    {
+      "date": "2026-06-30",
+      "knownTotal": 44
+    },
+    {
+      "date": "2026-07-01",
+      "knownTotal": 44
+    },
+    {
+      "date": "2026-07-02",
+      "knownTotal": 44
     }
   ]
 }
